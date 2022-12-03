@@ -5,7 +5,7 @@ Xsens_DOT实时数据采集分析软件
 
 
 
- ![GPlogo](E:\FlFile\LSTM-GRF\PRE-GUI\XSENS_DOT_RS\Resources\GPlogo.png)RT XD GP
+ ![GPlogo](./Resources/GPlogo.png)RT XD GP
 ==
 
 Support system：
